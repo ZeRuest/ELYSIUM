@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1623073494
+DIR: code code\datums\outfits code\datums\outfits\jobs code\game\jobs\job code\modules\species code\modules\species\station code_ark\icons\mob code_ark\icons\mob\onmob code_ark\icons\mob\onmob\underwear custom_items\clothing custom_items\clothing\masks custom_items\clothing\suits icons\mob icons\mob\human_races icons\mob\human_races\species icons\mob\human_races\species\human 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 513.1513
+WINDOW: code_ark\icons\mob\onmob\underwear\top.dmi;code_ark\icons\mob\human.dmi;code\modules\species\station\station.dm;code\modules\species\station\human_subspecies.dm;icons\mob\human_races\species\human\body.dmi;code\modules\species\species.dm
+FILE: icons\mob\human_races\species\human\body.dmi
+*/
+// END_INTERNALS
